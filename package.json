@@ -1,0 +1,32 @@
+{
+  "name": "boostbaguio-wa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quasar.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhrystellineA/BOOSTBAGUIO-WA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KhrystellineA/BOOSTBAGUIO-WA/issues"
+  },
+  "homepage": "https://github.com/KhrystellineA/BOOSTBAGUIO-WA#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.84.0",
+    "quasar": "^2.18.6",
+    "workbox-webpack-plugin": "^7.4.0"
+  },
+  "devDependencies": {
+    "@quasar/cli": "^2.5.0"
+  }
+}
