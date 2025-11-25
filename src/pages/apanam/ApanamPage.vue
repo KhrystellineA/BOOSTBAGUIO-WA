@@ -68,7 +68,7 @@
 import EmbossedButton from 'components/EmbossedButton.vue'
 
 export default {
-  name: 'ApamanPage',
+  name: 'apanamPage',
   components: {
     EmbossedButton
   },
